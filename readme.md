@@ -9,7 +9,7 @@
 
 * * *
 
-[x] Http requests /routes
+[x] Http requests /routes (web)
 
 [x] Views
 
