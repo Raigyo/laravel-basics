@@ -10,11 +10,17 @@
 * * *
 
 [x] Http requests /routes
+
 [x] Views
+
 [x] Controlers
+
 [x] Middlewares
+
 [x] CSRF protection
+
 [x] Containers and injection dependencies
+
 [x] Sass
 
 ## Features
