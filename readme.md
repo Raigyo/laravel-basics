@@ -35,8 +35,6 @@ You also will need composer if you want to add dependencies.
 
 To launch the server, go on the directory of this app the launch: __php artisan serve__
 
-## About Laravel 
-
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
